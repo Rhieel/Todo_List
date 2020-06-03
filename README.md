@@ -17,13 +17,13 @@ Simple task management and reminder app using
 
 ## Screenshots
 <p align="center">
-<img src="screenshots/index1.png" alt="" width=30%>
-<img src="screenshots/index2.png" alt="" width=30%>
-<img src="screenshots/index3.png" alt="" width=30%>
-<img src="screenshots/index4.png" alt="" width=30%>
-<img src="screenshots/index5.png" alt="" width=30%>
-<img src="screenshots/index6.png" alt="" width=30%>
-<img src="screenshots/index7.png" alt="" width=30%>
-<img src="screenshots/index8.png" alt="" width=30%>
-<img src="screenshots/index9.png" alt="" width=30%>
+<img src="screenshots/index1.jpg" alt="" width=30%>
+<img src="screenshots/index2.jpg" alt="" width=30%>
+<img src="screenshots/index3.jpg" alt="" width=30%>
+<img src="screenshots/index4.jpg" alt="" width=30%>
+<img src="screenshots/index5.jpg" alt="" width=30%>
+<img src="screenshots/index6.jpg" alt="" width=30%>
+<img src="screenshots/index7.jpg" alt="" width=30%>
+<img src="screenshots/index8.jpg" alt="" width=30%>
+<img src="screenshots/index9.jpg" alt="" width=30%>
 </p>
