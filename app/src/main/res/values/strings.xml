@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">To Do List</string>
+
+    <string name="title">Title</string>
+    <string name="due_date">Due date</string>
+    <string name="note">Note</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time</string>
+    <string name="no_data_found">No data found</string>
+    <string name="reminder_text">Remind me</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort by</string>
+    <string name="date_created">Date Created</string>
+    <string name="remind_time">Reminder time</string>
+
+    <string-array name="options_todo">
+        <item>Details</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+    <string-array name="options_reminder">
+        <item>1 hour</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>1 day</item>
+        <item>2 days</item>
+    </string-array>
+</resources>
+
